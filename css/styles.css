@@ -1,10 +1,56 @@
 body {
   padding-top: 5rem;
+  background-color: #ffcbf2 ;
 }
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
 }
 .my-btn {
-  background-color: #9bf6ff ;
+  background-color: #ffcbf2 ;
+  border-color: #ffcbf2;
+
 }
+.my-btn:hover{
+  background-color: blueviolet;
+}
+.discount {
+  color: #da1e37
+}
+
+.bar {
+background-color: #cbc0d3  ;
+
+}
+
+.navbar-brand.logo {
+  color: #7b2cbf
+}
+
+.dropdown {
+   color-adjust:#ffcbf2;
+
+}
+
+.main-menu .active>.nav-link{
+  color: #7b2cbf !important;
+}
+
+.heading1 {
+  color: #7b2cbf
+}
+
+.products {
+  margin-top: 20px;
+}
+
+.footer-size {
+  column-width: 200px;
+  
+  }
+
+.au-pic{
+  height: 12cm;
+  width: 800px;
+}
+
