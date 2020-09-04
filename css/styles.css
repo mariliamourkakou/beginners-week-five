@@ -45,12 +45,27 @@ background-color: #cbc0d3  ;
 }
 
 .footer-size {
-  column-width: 200px;
-  
+  width: 30%;
+  margin-left: 400px;
+  margin
   }
 
 .au-pic{
-  height: 12cm;
-  width: 800px;
+  width: 600px;
+  margin-left: 250px;
+  
+  
 }
+
+.btn-submit{
+  margin-left: 710px;
+ margin-top: 2px;
+}
+
+.contact-margin{
+  margin-left: 500px;
+}
+
+
+
 
